@@ -1,0 +1,23 @@
+.cls1{
+    font-size: 90px;
+    text-align: center;
+    padding-top: 80px;
+}
+.cls2{
+    text-align: center;
+}
+.cls3{
+    text-align: center;
+}
+body{
+    background-image: url(pictures/background.jpeg)
+}
+div{
+    background-color: white;
+    width: 70%;
+}
+img{
+    width: 30px;
+    height: 30px;
+    padding-bottom: 80px;
+}
